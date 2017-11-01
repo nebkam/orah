@@ -83,7 +83,7 @@ li#mail {
 ;padding-left:22px
 ;margin-left:8px
 }
-li#mail a {
+li#mail a, li#phone a, li#mobile a {
 ;text-decoration:none
 ;color:#491D29
 }
