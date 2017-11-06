@@ -92,7 +92,9 @@ $navigationItems = array(
  * @return string
  */
 function generateNavigationItem($key,$title){
-	return '<li><a href="/ru/'.$key.'.php">'.$title.'</a></li>';
+	$isCurrent = stripos($_SERVER['PHP_SELF'], $key.'.php');
+
+	return '<li><a '.($isCurrent ? 'class="current"' : '' ).' href="/ru/'.$key.'.php">'.$title.'</a></li>';
 }
 ?>
 <ul id="nav">
