@@ -58,8 +58,8 @@
 </ul><!--#lang-->
 
 <?php
-$navigationItems = [
-	'sorts' => [
+$navigationItems = array(
+	'sorts' => array(
 		'jabuka-standardna' => 'Стандартное яблоко',
 		'jabuka-stubasta' => 'Яблоко соломы',
 		'jabuka-autohtone' => 'Автохтонные сорта яблоко',
@@ -74,17 +74,17 @@ $navigationItems = [
 		'ribizla-josta-ogrozd' => 'Смородины, крыжовник',
 		'dud' => 'Шелковица',
 		'stubaste-i-patuljaste-forme' => 'Формы стерни и карлики'
-	],
-	'agroTechnics' => [
+	),
+	'agroTechnics' => array(
 		'sadnja' => 'Насаждение',
 		'zastita' => 'Защита саженцев',
 		'slike' => 'Фотогалерея'
-	],
-	'sales' => [
+	),
+	'sales' => array(
 		'posta' => 'Заказ по почте',
 		'email' => 'Заказы через Интернет'
-	]
-];
+	)
+);
 
 /**
  * @param string $title
