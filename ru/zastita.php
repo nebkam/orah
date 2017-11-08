@@ -2,7 +2,7 @@
 
 	<div id="content" class="zastita">
 		<a name="summary">
-			<h1 class="headZ">защита саженцев</h1>
+			<h1 class="headZ ru">ащита саженцев</h1>
 		</a>
 		<div class="thumb fancybox">
 			<a href="/gfx/photo/large/3.jpg">

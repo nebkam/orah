@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="posta">
-		<h1 class="headR">Сроки доставки и условия продажи по почте</h1>
+		<h1 class="headS ru">роки доставки и условия продажи по почте</h1>
 		<ul class="accent">
 			<li class="itemT">
 				Телефон

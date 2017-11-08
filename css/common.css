@@ -311,6 +311,10 @@ p.paraB {
 ;background:transparent url("/gfx/slovo-b.png") no-repeat scroll 6px -2px
 ;min-height:65px
 }
+p.paraP.ru {
+    background:transparent url("/gfx/ru/white-caps/p.png") no-repeat scroll 16px -2px;
+    min-height:65px;
+}
 div#content > ul {
 ;padding-left:84px
 ;list-style-image:url("/gfx/blt.png")
@@ -493,6 +497,12 @@ div#content.kontakt ul li.itemT {
 ;padding-left:74px
 ;min-height:66px
 }
+div#content.kontakt ul li.itemT.ru {
+;background:transparent url("/gfx/ru/white-caps/t.png") no-repeat scroll 6px -2px
+;font-weight:700
+;padding-left:74px
+;min-height:66px
+}
 div#content.kontakt ul li.itemE {
 ;font-weight:700
 ;padding-left:74px
@@ -622,6 +632,62 @@ h1.headW {
 h1.headH {
 ;background:transparent url("/gfx/slovo-h.png") no-repeat scroll 6px -2px
 ;min-height:65px
+}
+h1.headS.ru {
+    background:transparent url("/gfx/ru/white-caps/s.png") no-repeat scroll 20px -2px;
+    min-height:65px
+}
+h1.headJat.ru {
+    background:transparent url("/gfx/ru/white-caps/jat.png") no-repeat scroll 26px -2px;
+    min-height:65px
+}
+h1.headA.ru {
+    background:transparent url("/gfx/ru/white-caps/a.png") no-repeat scroll 25px -2px;
+    min-height:65px
+}
+h1.headG.ru {
+    background:transparent url("/gfx/ru/white-caps/g.png") no-repeat scroll 24px -2px;
+    min-height:65px
+}
+h1.headM.ru {
+    background:transparent url("/gfx/ru/white-caps/m.png") no-repeat scroll 12px -2px;
+    min-height:65px
+}
+h1.headP.ru {
+    background:transparent url("/gfx/ru/white-caps/p.png") no-repeat scroll 20px -2px;
+    min-height:65px
+}
+h1.headCh.ru {
+    background:transparent url("/gfx/ru/white-caps/ch.png") no-repeat scroll 24px -2px;
+    min-height:65px
+}
+h1.headV.ru {
+    background:transparent url("/gfx/ru/white-caps/v.png") no-repeat scroll 24px -2px;
+    min-height:65px
+}
+h1.headO.ru {
+    background:transparent url("/gfx/ru/white-caps/o.png") no-repeat scroll 20px -2px;
+    min-height:65px
+}
+h1.headF.ru {
+    background:transparent url("/gfx/ru/white-caps/f.png") no-repeat scroll 12px -2px;
+    min-height:65px
+}
+h1.headK.ru {
+    background:transparent url("/gfx/ru/white-caps/k.png") no-repeat scroll 20px -2px;
+    min-height:65px
+}
+h1.headSh.ru {
+    background:transparent url("/gfx/ru/white-caps/sh.png") no-repeat scroll 12px -2px;
+    min-height:65px
+}
+h1.headI.ru {
+    background:transparent url("/gfx/ru/white-caps/i.png") no-repeat scroll 20px -2px;
+    min-height:65px
+}
+h1.headZ.ru {
+    background:transparent url("/gfx/ru/white-caps/z.png") no-repeat scroll 20px -2px;
+    min-height:65px
 }
 div#content.zastita table {
 ;clear:right

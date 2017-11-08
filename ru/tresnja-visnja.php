@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="sorte">
-		<h1 class="headT">Черешня</h1>
+		<h1 class="headCh ru">ерешня</h1>
 		<h2>Время созревания</h2>
 
 		<table>
@@ -239,7 +239,7 @@
 			</tbody>
 		</table>
 
-		<h1 class="headV">Вишня</h1>
+		<h1 class="headV ru">ишня</h1>
 		<h2>Время созревания</h2>
 
 		<table>

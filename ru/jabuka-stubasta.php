@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="sorte">
-		<h1 class="headS">Яблоко соломы</h1>
+		<h1 class="headJat ru">блоко соломы</h1>
 		<h2>Время созревания</h2>
 
 		<table>

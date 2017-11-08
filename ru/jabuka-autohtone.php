@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="sorte">
-		<h1 class="headA">Автохтонные сорта яблоко</h1>
+		<h1 class="headA ru">втохтонные сорта яблоко</h1>
 		<h2>Время созревания</h2>
 		<table>
 			<colgroup>

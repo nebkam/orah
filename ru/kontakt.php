@@ -2,8 +2,8 @@
 
 	<div id="content" class="kontakt">
 		<ul>
-			<li class="itemT">
-				Телефон
+			<li class="itemT ru">
+				елефон
 				<ul>
 					<li>
 						<a href="tel:+381628400266">+381 (62) 84-00-266</a>

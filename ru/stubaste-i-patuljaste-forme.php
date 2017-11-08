@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="sorte">
-		<h1 class="headS">Солома и карликовая форма груши</h1>
+		<h1 class="headS ru">олома и карликовая форма груши</h1>
 		<ul class="accent">
 			<li class="itemR">
 				интервалы посадки

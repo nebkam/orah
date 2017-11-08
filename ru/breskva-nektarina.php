@@ -1,7 +1,7 @@
 <?php include "tpl/header.php"; ?>
 
 	<div id="content" class="sorte">
-		<h1 class="headB">Персик и нектарины</h1>
+		<h1 class="headP ru">ерсик и нектарины</h1>
 
 		<ul class="accent">
 			<li class="itemR">
