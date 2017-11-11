@@ -15,7 +15,9 @@
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script type="text/javascript" src="/js/common.js"></script>
   <meta name="google-site-verification" content="Y8oLDITL8ikyf3uZX1Mda_xnnXg9_PiC5elAcIvgNrQ" />
- <link rel="icon" type="photo/o8CltRtuIQg8Kz0RCfsZDQ?feat=directlink" href="/favicon.ico" />   <link rel="icon" type="image/png" href="/gfx/favicon.png"></link>  </head>
+ <link rel="icon" type="photo/o8CltRtuIQg8Kz0RCfsZDQ?feat=directlink" href="/favicon.ico" />   <link rel="icon" type="image/png" href="/gfx/favicon.png"></link>
+	 <?php include "google_analytics.php"; ?>
+ </head>
  <body class="bg4">
  
   <p id="top">

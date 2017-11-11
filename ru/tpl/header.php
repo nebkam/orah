@@ -20,6 +20,15 @@
 	<link rel="icon" type="image/png" href="/gfx/favicon.png" />
 	<link rel="icon" type="photo/o8CltRtuIQg8Kz0RCfsZDQ?feat=directlink" href="/favicon.ico"/>
 	<link rel="icon" type="image/png" href="/gfx/favicon.png"/>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109562370-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-109562370-1');
+	</script>
 </head>
 <body class="bg4">
 
