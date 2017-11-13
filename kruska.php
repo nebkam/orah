@@ -40,46 +40,46 @@
     <a href="#">Sortimenti</a>
     <ul class="sub">
      <li>
-      <a href="/jabuka-standardna">Standardna jabuka</a>
+      <a href="/jabuka-standardna.php">Standardna jabuka</a>
      </li>
      <li>
-      <a href="/jabuka-stubasta">Stubasta jabuka</a>
+      <a href="/jabuka-stubasta.php">Stubasta jabuka</a>
      </li>
      <li>
-      <a href="/jabuka-autohtone">Autohtone sorte jabuke</a>
+      <a href="/jabuka-autohtone.php">Autohtone sorte jabuke</a>
      </li>
      <li>
       <a class="current">Kruška</a>
      </li>
      <li>
-      <a href="/dunja-musmula">Dunja i mušmula</a>
+      <a href="/dunja-musmula.php">Dunja i mušmula</a>
      </li>
      <li>
-      <a href="/breskva-nektarina">Breskva i nektarina</a>
+      <a href="/breskva-nektarina.php">Breskva i nektarina</a>
      </li>
      <li>
-      <a href="/kajsija">Kajsija</a>
+      <a href="/kajsija.php">Kajsija</a>
      </li>
      <li>
-      <a href="/sljiva">Šljiva</a>
+      <a href="/sljiva.php">Šljiva</a>
      </li>
      <li>
-      <a href="/tresnja-visnja">Trešnja i višnja</a>
+      <a href="/tresnja-visnja.php">Trešnja i višnja</a>
      </li>
      <li>
-      <a href="/orah-leska-badem">Orah, leska i badem</a>
+      <a href="/orah-leska-badem.php">Orah, leska i badem</a>
      </li>
      <li>
-      <a href="/dren">Dren</a>
+      <a href="/dren.php">Dren</a>
      </li>
      <li>
-      <a href="/ribizla-josta-ogrozd">Ribizla, josta i ogrozd</a>
+      <a href="/ribizla-josta-ogrozd.php">Ribizla, josta i ogrozd</a>
      </li>
      <li>
-      <a href="/dud">Dud</a>
+      <a href="/dud.php">Dud</a>
      </li>
      <li>
-      <a href="/stubaste-i-patuljaste-forme">Stubaste i patuljaste forme</a>
+      <a href="/stubaste-i-patuljaste-forme.php">Stubaste i patuljaste forme</a>
      </li>
     </ul>
    </li>
@@ -87,13 +87,13 @@
     <a href="#">Agrotehnika</a>
     <ul class="sub">
      <li>
-      <a href="/sadnja">Sadnja</a>
+      <a href="/sadnja.php">Sadnja</a>
      </li>
      <li>
-      <a href="/zastita">Zaštita sadnica</a>
+      <a href="/zastita.php">Zaštita sadnica</a>
      </li>
      <li>
-      <a href="/slike">Galerija slika</a>
+      <a href="/slike.php">Galerija slika</a>
      </li>
     </ul>
    </li>
@@ -101,15 +101,15 @@
     <a href="#">Prodaja</a>
     <ul class="sub">
      <li>
-      <a href="/posta">Narudžbina poštom</a>
+      <a href="/posta.php">Narudžbina poštom</a>
      </li>
      <li>
-      <a href="/email">Online narudžbina</a>
+      <a href="/email.php">Online narudžbina</a>
      </li>
     </ul>
    </li>
    <li id="kontakt">
-    <a href="/kontakt">Kontakt</a>
+    <a href="/kontakt.php">Kontakt</a>
    </li>
   </ul><!--#nav-->
   

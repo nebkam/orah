@@ -34,52 +34,52 @@
   
   <ul id="nav">
    <li id="oNama">
-    <a href="/about">About Us</a>
+    <a href="/index.en.php">About Us</a>
    </li>
    <li id="sorte" class="hasSub">
     <a href="#">Sortiments</a>
     <ul class="sub">
      <li>
-      <a href="/apple-standard">Standard Apple</a>
+      <a href="/jabuka-standardna.en.php">Standard Apple</a>
      </li>
      <li>
-      <a href="/apple-columnar">Columnar Apple</a>
+      <a href="/jabuka-stubasta.en.php">Columnar Apple</a>
      </li>
      <li>
-      <a href="/apple-indigenous">Indigenous Apple Varieties</a>
+      <a href="/jabuka-autohtone.en.php">Indigenous Apple Varieties</a>
      </li>
      <li>
       <a class="current">Pear</a>
      </li>
      <li>
-      <a href="/quince-medlar">Quince &amp; Medlar</a>
+      <a href="/dunja-musmula.en.php">Quince &amp; Medlar</a>
      </li>
      <li>
-      <a href="/peach-nectarine">Peach &amp; Nectarine</a>
+      <a href="/breskva-nektarina.en.php">Peach &amp; Nectarine</a>
      </li>
      <li>
-      <a href="/apricot">Apricot</a>
+      <a href="/kajsija.en.php">Apricot</a>
      </li>
      <li>
-      <a href="/plum">Plum</a>
+      <a href="/sljiva.en.php">Plum</a>
      </li>
      <li>
-      <a href="/cherry-sour-cherry">Cherry &amp; Sour Cherry</a>
+      <a href="/tresnja-visnja.en.php">Cherry &amp; Sour Cherry</a>
      </li>
      <li>
-      <a href="/walnut-hazelnut-almond">Walnut, Hazelnut &amp; Almond</a>
+      <a href="/orah-leska-badem.en.php">Walnut, Hazelnut &amp; Almond</a>
      </li>
      <li>
-      <a href="/cornel">Cornel</a>
+      <a href="/dren.en.php">Cornel</a>
      </li>
      <li>
-      <a href="/currant-gooseberry-jost">Currant, Gooseberry &amp; Jost</a>
+      <a href="/ribizla-josta-ogrozd.en.php">Currant, Gooseberry &amp; Jost</a>
      </li>
      <li>
-      <a href="/mulberry">Mulberry</a>
+      <a href="/dud.en.php">Mulberry</a>
      </li>
      <li>
-      <a href="/columnar-and-dwarf-forms">Columnar &amp; Dwarf Forms</a>
+      <a href="/stubaste-i-patuljaste-forme.en.php">Columnar &amp; Dwarf Forms</a>
      </li>
     </ul>
    </li>
@@ -87,13 +87,13 @@
     <a href="#">Agrotechnics</a>
     <ul class="sub">
      <li>
-      <a href="/planting">Planting</a>
+      <a href="/sadnja.en.php">Planting</a>
      </li>
      <li>
-      <a href="/protection-seedlings">Protection of Seedlings</a>
+      <a href="/zastita.en.php">Protection of Seedlings</a>
      </li>
      <li>
-      <a href="/gallery">Picture Gallery</a>
+      <a href="/slike.en.php">Picture Gallery</a>
      </li>
     </ul>
    </li>
@@ -101,15 +101,15 @@
     <a href="#">Sale</a>
     <ul class="sub">
      <li>
-      <a href="/buy-mail">Order by Mail</a>
+      <a href="/posta.en.php">Order by Mail</a>
      </li>
      <li>
-      <a href="/buy-online">Order Online</a>
+      <a href="/email.en.php">Order Online</a>
      </li>
     </ul>
    </li>
    <li id="kontakt">
-    <a href="/contact">Contact</a>
+    <a href="/kontakt.en.php">Contact</a>
    </li>
   </ul><!--#nav-->
   
