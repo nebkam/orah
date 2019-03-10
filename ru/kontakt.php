@@ -44,7 +44,7 @@
 			<li class="itemG">
 				oogle карте
 				<div class="thumb">
-					<a href="http://maps.google.com/maps?f=q&source=s_q&hl=sr&geocode=&q=pali%C4%87&aq=&sll=37.0625,-95.677068&sspn=28.805654,56.513672&ie=UTF8&hq=&hnear=%D0%9F%D0%B0%D0%BB%D0%B8%D1%9B,+%D0%92%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0,+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0&ll=46.092103,19.777708&spn=0.024821,0.055189&z=14"
+					<a href="https://maps.google.com/maps?f=q&source=s_q&hl=sr&geocode=&q=pali%C4%87&aq=&sll=37.0625,-95.677068&sspn=28.805654,56.513672&ie=UTF8&hq=&hnear=%D0%9F%D0%B0%D0%BB%D0%B8%D1%9B,+%D0%92%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0,+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0&ll=46.092103,19.777708&spn=0.024821,0.055189&z=14"
 					   target="_blank">
 						<img src="/gfx/mapa-google.png" alt=""/>
 					</a>

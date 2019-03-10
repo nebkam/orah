@@ -10,10 +10,10 @@
   <meta name="Author" content="Небојша Камбер - Nebojša Kamber - www.nebojsa.in.rs - 
    kamber@nebojsa.in.rs" />
   <link rel="stylesheet" type="text/css" href="/css/common.css" />
-  <link  href="http://fonts.googleapis.com/css?family=Philosopher:regular" rel="stylesheet"
+  <link  href="https://fonts.googleapis.com/css?family=Philosopher:regular" rel="stylesheet"
    type="text/css" />
   <link rel="stylesheet" href="/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
   <script type="text/javascript" src="/js/common.js"></script>
  <link rel="icon" type="photo/o8CltRtuIQg8Kz0RCfsZDQ?feat=directlink" href="/favicon.ico" />   <link rel="icon" type="image/png" href="/gfx/favicon.png"></link>  </head>
@@ -153,7 +153,7 @@
     <li class="itemG">
      oogle mapa
       <div class="thumb">
-       <a href="http://maps.google.com/maps?f=q&source=s_q&hl=sr&geocode=&q=pali%C4%87&aq=&sll=37.0625,-95.677068&sspn=28.805654,56.513672&ie=UTF8&hq=&hnear=%D0%9F%D0%B0%D0%BB%D0%B8%D1%9B,+%D0%92%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0,+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0&ll=46.092103,19.777708&spn=0.024821,0.055189&z=14" target="_blank">
+       <a href="https://maps.google.com/maps?f=q&source=s_q&hl=sr&geocode=&q=pali%C4%87&aq=&sll=37.0625,-95.677068&sspn=28.805654,56.513672&ie=UTF8&hq=&hnear=%D0%9F%D0%B0%D0%BB%D0%B8%D1%9B,+%D0%92%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0,+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0&ll=46.092103,19.777708&spn=0.024821,0.055189&z=14" target="_blank">
         <img src="/gfx/mapa-google.png" alt="" />
        </a>
       </div>

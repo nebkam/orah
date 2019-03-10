@@ -10,7 +10,7 @@
   <meta name="Author" content="Небојша Камбер - Nebojša Kamber - www.nebojsa.in.rs - 
    kamber@nebojsa.in.rs" />
   <link rel="stylesheet" type="text/css" href="/css/common.css" />
-  <link  href="http://fonts.googleapis.com/css?family=Philosopher:regular" rel="stylesheet"
+  <link  href="https://fonts.googleapis.com/css?family=Philosopher:regular" rel="stylesheet"
    type="text/css" />
   <link rel="stylesheet" href="/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
